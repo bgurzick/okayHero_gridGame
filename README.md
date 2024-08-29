@@ -10,4 +10,4 @@ Still in progress:
 
 - Adding a restart option when the player wins; currently there is only a restart option when the player loses
 
-- Rendering all squares a color when the player wins; currently all squares are rendered black when a player loses;
+- Rendering all squares a color when the player wins; currently all squares are rendered black when a player loses
