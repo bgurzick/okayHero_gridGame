@@ -1,3 +1,5 @@
+
+//initial grid setup
 const rows = 15;
 const columns = 20;
 const totalSquares = rows * columns;
